@@ -1,2 +1,28 @@
-# 2964eee73c751818-crypto-tax-knowledge-base-and
-The crypto tax tool you'd build yourself — if you had the time.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Crypto Tax Knowledge Base And Help Center — fully configured and ready to use - Pre-built n8n workflow — imp
+# Crypto Tax Knowledge Base and Help Center Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI9ATfXxbUEe008nGcZG2J)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI9ATfXxbUEe008nGcZG2J)
+
